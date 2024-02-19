@@ -1,11 +1,9 @@
-##Ticket App
+# Ticket App
 Simple ticketing application with javascript
 
-#Tugas 19 Februari 2024
+### Tugas 19 Februari 2024
 
-Buatlah website aplikasi tiket
-
-TICKET-APP
+Buatlah website aplikasi tiket "TICKET-APP"
 1. buat kode aplikasinya dengan fitur
     input -> nama
     input -> umur
@@ -18,11 +16,9 @@ TICKET-APP
 3. push ke github
 4. link github nya dishare ke google drive
 
-#Assignment 19th February 2024
+### Assignment 19th February 2024
 
-Make an ticket web appllication
-
-TICKET-APP
+Make an ticket web appllication "TICKET-APP"
 1. create code with all the features
     input -> name
     input -> age 
@@ -35,5 +31,5 @@ TICKET-APP
 3. push the code form local to the repository
 4. share the repository github link to the google drive
 
-#See live pages on
+See live pages on
 [Ticketing-App-Pages](links)

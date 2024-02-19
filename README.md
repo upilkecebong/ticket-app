@@ -32,4 +32,4 @@ Make an ticket web appllication "TICKET-APP"
 4. share the repository github link to the google drive
 
 See live pages on
-[Ticketing-App-Pages](links)
+[Ticketing-App-Pages](https://upilkecebong.github.io/ticket-app/)
